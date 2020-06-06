@@ -448,3 +448,64 @@ a:hover
 
 
 
+/*......................................work page................................................*/
+.tinmation
+{
+	background-color: #FF6347;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+}
+.tinmation h2
+{
+	color: white;
+}
+
+.tinmation p
+{
+	margin-top: 20px;
+	color: #FFE4E1;
+}
+.ecommerce
+{
+	background-color: #9932CC;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	
+}
+.ecommerce h2
+{
+	color: white;
+}
+.ecommerce p
+{
+	margin-top: 20px;
+	color: #FFE4E1;
+}
+/*.............................................button to see the project..............................*/
+.Project {
+	box-shadow: 3px 4px 0px 0px #1b7fc2;
+	background:linear-gradient(to bottom, #37a855 5%, #64d139 100%);
+	background-color:#37a855;
+	border-radius:8px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	font-weight:bold;
+	padding:12px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.Project:hover {
+	background:linear-gradient(to bottom, #64d139 5%, #37a855 100%);
+	background-color:#64d139;
+}
+.Project:active {
+	position:relative;
+	top:1px;
+}
+
+        
