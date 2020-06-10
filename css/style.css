@@ -456,12 +456,12 @@ a:hover
 	padding-bottom: 100px;
 	
 }
-.tinmation h2
+.work h2
 {
 	color: white;
 }
 
-.tinmation p
+.work p
 {
 	margin-top: 20px;
 	color: #FFE4E1;
@@ -473,14 +473,12 @@ a:hover
 	padding-bottom: 100px;
 	
 }
-.ecommerce h2
+
+.dice
 {
-	color: white;
-}
-.ecommerce p
-{
-	margin-top: 20px;
-	color: #FFE4E1;
+	background-color: #FFD700;
+	padding-top: 100px;
+	padding-bottom: 100px;
 }
 /*.............................................button to see the project..............................*/
 .Project {
